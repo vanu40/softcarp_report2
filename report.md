@@ -8,3 +8,10 @@ BAd Food
 Music
 Dance
 Lovely views
+vector 1:10
+## look for markdown syntax
+Link to[all RStudio cheatsheets/](https://rstudio/resources/cheatsheets/)
+How do I add an image?
+project will be running batch 9
+
+![An old-fashioned unicorn](https://en.wikipedia.org/wiki/File:DomenichinounicornPalFarnese.jpg)
